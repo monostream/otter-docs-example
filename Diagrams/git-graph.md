@@ -6,7 +6,7 @@ title: GitGraph
 
 ## GitGraph Diagram
 
-```mermaidjs
+```mermaid
 gitGraph
     commit
     branch develop
