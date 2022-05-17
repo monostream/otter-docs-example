@@ -5,7 +5,7 @@ title: Sequence
 
 # Sequence Diagram
 
-```mermaidjs
+```mermaid
 sequenceDiagram
   Alice->John: Hello John, how are you?
   loop Every minute
